@@ -13,9 +13,7 @@ This project has assisted with my understanding of HTML Semantic Elements and so
 
 The link to access the website and a screenshot of the finished page is below...
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+https://petarlo.github.io/Challenge1-Horiseon/
 
 ![alt text](assets/images/screenshot.png)
 
